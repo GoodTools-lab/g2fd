@@ -1,0 +1,5 @@
+#include "usb_conf.h"
+#include "usb_core.h"
+#include "usbd_int.h"
+#include "winusb_class.h"
+#include "winusb_desc.h"

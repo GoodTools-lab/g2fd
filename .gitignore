@@ -1,0 +1,44 @@
+# Keil MDK build artifacts
+*.o
+*.d
+*.crf
+*.lnp
+*.axf
+*.lst
+*.htm
+*.build_log.htm
+*.dep
+*.iex
+*.i
+*.bin
+*.hex
+*.map
+*.elf
+*.lib
+*.uvguix.*
+*.uvgui.*
+*.bak
+JLinkLog.txt
+mdk_v5/objects/
+mdk_v5/listings/
+mdk_v5/build*.log
+mdk_v5/build*.txt
+build/
+gcc/build/
+
+# Python
+__pycache__/
+*.pyc
+
+# SourceInsight
+**/*.si4project/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+.trae/
+*.7z
+*.zip
